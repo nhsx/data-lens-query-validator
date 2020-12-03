@@ -1,0 +1,10 @@
+﻿search_engine,search_URL_string
+Google search,https://www.google.com/search?=
+NHS Digital 'Data and Information' search,https://digital.nhs.uk/search?query=
+NHS England Data Catalogue search,https://data.england.nhs.uk/dataset?q=
+NCDR Data Catalogue search,https://data.england.nhs.uk/ncdr/search/column/?q=
+GOV.UK search,https://www.gov.uk/search/all?keywords=
+PHE Fingertips search,https://fingertips.phe.org.uk/search/
+ONS,https://www.ons.gov.uk/search?q=
+HDRUK Gateway,https://web.www.healthdatagateway.org/search?search=
+NCRAS,http://www.ncin.org.uk/search/
