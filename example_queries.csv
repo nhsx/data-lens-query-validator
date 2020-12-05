@@ -1,13 +1,13 @@
-﻿query_search_term,correct_result_URL,,,,,,,,,,,,,,,,,,,,,,,,
-Patient Online data,https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-collections/pomi,,,,,,,,,,,,,,,,,,,,,,,,
+﻿query_search_term,correct_result_URL
+Patient Online data,https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-collections/pomi
 Electronic Prescription Service data,https://digital.nhs.uk/data-and-information/data-tools-and-services/tools-for-accessing-data/deployment-and-utilisation-hub/electronic-prescription-service-deployment-and-utilisation-data,,,,,,,,,,,,,,,,,,,,,,,,
-Electronic Prescription Service data,https://digital.nhs.uk/services/electronic-prescription-service/statistics,,,,,,,,,,,,,,,,,,,,,,,,
-NHS 111 data,https://www.england.nhs.uk/statistics/statistical-work-areas/nhs-111-minimum-data-set/,,,,,,,,,,,,,,,,,,,,,,,,
+Electronic Prescription Service data,https://digital.nhs.uk/services/electronic-prescription-service/statistics
+NHS 111 data,https://www.england.nhs.uk/statistics/statistical-work-areas/nhs-111-minimum-data-set/
 Reported Covid symptoms data,https://digital.nhs.uk/data-and-information/publications/statistical/mi-potential-covid-19-symptoms-reported-through-nhs-pathways-and-111-online/latest,,,,,,,,,,,,,,,,,,,,,,,,
-GP Appointments data,https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/,,,,,,,,,,,,,,,,,,,,,,,,
-Number of patients registered at GP practice data,https://digital.nhs.uk/data-and-information/publications/statistical/patients-registered-at-a-gp-practice,,,,,,,,,,,,,,,,,,,,,,,,
-CCG e-Referral data,https://digital.nhs.uk/services/e-referral-service/reports-and-statistics/weekly-booking-reports,,,,,,,,,,,,,,,,,,,,,,,,
-e-Referral data,https://digital.nhs.uk/services/e-referral-service/reports-and-statistics/weekly-booking-reports,,,,,,,,,,,,,,,,,,,,,,,,
-Digital Maturity Assessment,https://data.england.nhs.uk/dataset/digital-maturity-2017,,,,,,,,,,,,,,,,,,,,,,,,
-Digital Maturity Assessment,https://data.england.nhs.uk/organization/nhs-england-technology-strategy,,,,,,,,,,,,,,,,,,,,,,,,
-Digital Maturity Assessment,https://data.england.nhs.uk/dataset/digital-maturity-assessment-2015-2016,,,,,,,,,,,,,,,,,,,,,,,,
+GP Appointments data,https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/
+Number of patients registered at GP practice data,https://digital.nhs.uk/data-and-information/publications/statistical/patients-registered-at-a-gp-practice
+CCG e-Referral data,https://digital.nhs.uk/services/e-referral-service/reports-and-statistics/weekly-booking-reports
+e-Referral data,https://digital.nhs.uk/services/e-referral-service/reports-and-statistics/weekly-booking-reports
+Digital Maturity Assessment,https://data.england.nhs.uk/dataset/digital-maturity-2017
+Digital Maturity Assessment,https://data.england.nhs.uk/organization/nhs-england-technology-strategy
+Digital Maturity Assessment,https://data.england.nhs.uk/dataset/digital-maturity-assessment-2015-2016
